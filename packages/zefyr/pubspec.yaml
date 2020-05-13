@@ -1,8 +1,8 @@
 name: zefyr
-description: Clean, minimalistic and collaboration-ready rich text editor for Flutter.
-version: 0.10.0
-author: Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>
-homepage: https://github.com/memspace/zefyr
+description: Forked - Clean, minimalistic and collaboration-ready rich text editor for Flutter.
+version: 0.10.1
+author: Angelo Moroni <mor.angelo.mor@gmail.com>
+homepage: https://github.com/chemickypes/zefyr/
 
 environment:
   sdk: '>=2.2.2 <3.0.0'
